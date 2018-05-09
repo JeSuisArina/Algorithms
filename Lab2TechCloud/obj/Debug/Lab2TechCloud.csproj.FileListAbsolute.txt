@@ -1,0 +1,11 @@
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\bin\Debug\Lab2TechCloud.exe.config
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\bin\Debug\Lab2TechCloud.exe
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\bin\Debug\Lab2TechCloud.pdb
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.Form1.resources
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.Properties.Resources.resources
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.csproj.GenerateResource.Cache
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.exe
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.pdb
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\obj\Debug\Lab2TechCloud.csprojResolveAssemblyReference.cache
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\bin\Debug\Lab2Tech.exe
+C:\Users\Арина\Documents\Visual Studio 2015\Projects\Lab2Tech\Lab2TechCloud\bin\Debug\Lab2Tech.pdb

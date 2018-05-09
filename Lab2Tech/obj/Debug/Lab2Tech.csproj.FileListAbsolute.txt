@@ -1,0 +1,8 @@
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\bin\Debug\Lab2Tech.exe.config
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\bin\Debug\Lab2Tech.exe
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\bin\Debug\Lab2Tech.pdb
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\obj\Debug\Lab2Tech.Form1.resources
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\obj\Debug\Lab2Tech.Properties.Resources.resources
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\obj\Debug\Lab2Tech.csproj.GenerateResource.Cache
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\obj\Debug\Lab2Tech.exe
+c:\users\арина\documents\visual studio 2015\Projects\Lab2Tech\Lab2Tech\obj\Debug\Lab2Tech.pdb
